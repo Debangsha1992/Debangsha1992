@@ -13,11 +13,11 @@
     
     Here is a link to my research paper 👉🏽 https://authors.elsevier.com/a/1hS07bquFUvWm
 
-______________________________
+__________________________________________________________________________________________
 
-I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.
+## I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.
 
-______________________________
+__________________________________________________________________________________________
 
 ## Connect with me on LinkedIn using the below link 
 

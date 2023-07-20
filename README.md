@@ -15,24 +15,21 @@
 
 __________________________________________________________________________________________
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
-
 ## I run a YouTube channel where I teach coding and explain the concepts of AI. 
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
 __________________________________________________________________________________________
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://youtube.com/playlist?list=PLV9VnT1svgQTRrlf_GopP0JiSUIpzOtjr) [<img src="https://seeklogo.com/images/A/apple-podcast-logo-0CF661058F-seeklogo.com.png" width="75" height="75">]() [<img src="https://www.pngmart.com/files/22/Spotify-Logo-PNG-Transparent.png" width="75" height="75">]()
-
-
 ## I also run a podcast called the `AI PODCAST` on YouTube, Spotify, and Apple Podcast.
+
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://youtube.com/playlist?list=PLV9VnT1svgQTRrlf_GopP0JiSUIpzOtjr) [<img src="https://seeklogo.com/images/A/apple-podcast-logo-0CF661058F-seeklogo.com.png" width="75" height="75">](https://podcasts.apple.com/us/podcast/ai-podcast/id1689350103) [<img src="https://www.pngmart.com/files/22/Spotify-Logo-PNG-Transparent.png" width="75" height="75">]()
+[<iframe src="https://podcasters.spotify.com/pod/show/debangsha-sarkar/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>]
 __________________________________________________________________________________________
 
 ## I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.
-
 __________________________________________________________________________________________
 
-[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/) (CLICK ME) 
-
 ## Connect with me on LinkedIn
+[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/) (CLICK ME) 
 
 __________________________________________________________________________________________
 <!---

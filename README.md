@@ -15,7 +15,7 @@
 
 __________________________________________________________________________________________
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreelogopng.com%2Fyoutube-logo-png&psig=AOvVaw2BDSr6SyawHmw4t_5OCyji&ust=1689981817203000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCb9oe3noADFQAAAAAdAAAAABAg" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQubPY9IPgSpbFcX6wBK_0BJd1toVP9Og6SF2NJQfsQxSpEZmomsJuC3j_vIHZ6JxCznQ&usqp=CAU" width="75" height="75">]()
 
 __________________________________________________________________________________________
 

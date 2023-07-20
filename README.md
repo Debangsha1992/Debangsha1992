@@ -15,20 +15,25 @@
 
 __________________________________________________________________________________________
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)###(CLICK ME) 
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
 
+## I run a YouTube channel where I teach coding and explain the concepts of AI. 
+__________________________________________________________________________________________
+
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
+
+## I also run a podcast called the `AI PODCAST` on  
 __________________________________________________________________________________________
 
 ## I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.
 
 __________________________________________________________________________________________
 
-## Connect with me on LinkedIn using the below link 
+[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/) (CLICK ME) 
 
-[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/)###(CLICK ME) 
+## Connect with me on LinkedIn
 
-
-
+__________________________________________________________________________________________
 <!---
 Debangsha1992/Debangsha1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

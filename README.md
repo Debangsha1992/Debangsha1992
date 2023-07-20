@@ -20,9 +20,10 @@ ________________________________________________________________________________
 ## I run a YouTube channel where I teach coding and explain the concepts of AI. 
 __________________________________________________________________________________________
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://youtube.com/playlist?list=PLV9VnT1svgQTRrlf_GopP0JiSUIpzOtjr) [<img src="https://seeklogo.com/images/A/apple-podcast-logo-0CF661058F-seeklogo.com.png" width="75" height="75">]() [<img src="https://e7.pngegg.com/pngimages/152/944/png-clipart-spotify-icon-spotify-music-playlist-computer-icons-streaming-media-spotify-text-logo.png" width="75" height="75">]()
 
-## I also run a podcast called the `AI PODCAST` on  
+
+## I also run a podcast called the `AI PODCAST` on YouTube, Spotify, and Apple Podcast.
 __________________________________________________________________________________________
 
 ## I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.

@@ -15,7 +15,7 @@
 
 __________________________________________________________________________________________
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">]()
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)###(CLICK ME) 
 
 __________________________________________________________________________________________
 
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ## Connect with me on LinkedIn using the below link 
 
-[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/)
+[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Beautiful-Linkedin-logo-PNG.png" width="75" height="75">](https://www.linkedin.com/in/debangsha-sarkar/)###(CLICK ME) 
 
 
 

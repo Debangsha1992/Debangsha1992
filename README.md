@@ -5,9 +5,12 @@
 - 🧐 My mission is to use artificial intelligence to solve real-world problems.
 - 🌱 I’m currently learning blockchain because it has many applications in deep learning. 
 - 🧾 PUBLICATIONS:
-  - ***Novel Representative Sampling for Improved Active Learning* in MATHMOD 2022 (https://www.mathmod.at/). \n
+  - ***Novel Representative Sampling for Improved Active Learning* in MATHMOD 2022 (https://www.mathmod.at/).
+    
     Here is a link to my research paper 👉🏽 https://doi.org/10.1016/j.ifacol.2022.09.071
-  - ***Non Data Hungry Smart Composite Manufacturing using Active Transfer Learning with Sigma Point Sampling (SPSATL)*** published in      the **Computers in Industry** Journal. \n
+    
+  - ***Non Data Hungry Smart Composite Manufacturing using Active Transfer Learning with Sigma Point Sampling (SPSATL)*** published in      the **Computers in Industry** Journal.
+    
     Here is a link to my research paper 👉🏽 https://authors.elsevier.com/a/1hS07bquFUvWm
 
 ______________________________

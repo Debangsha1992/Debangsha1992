@@ -19,10 +19,10 @@ ________________________________________________________________________________
 [<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://www.youtube.com/@artificialliai)(CLICK ME) 
 __________________________________________________________________________________________
 
-## I also run a podcast called the `AI PODCAST` on YouTube, Spotify, and Apple Podcast.
+## I also run a podcast called the `AI PODCAST` on YouTube, Spotify, and Apple Podcast. Click the following logos below to check out my podcast. It's amazing!!
 
-[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://youtube.com/playlist?list=PLV9VnT1svgQTRrlf_GopP0JiSUIpzOtjr) [<img src="https://seeklogo.com/images/A/apple-podcast-logo-0CF661058F-seeklogo.com.png" width="75" height="75">](https://podcasts.apple.com/us/podcast/ai-podcast/id1689350103) [<img src="https://www.pngmart.com/files/22/Spotify-Logo-PNG-Transparent.png" width="75" height="75">]()
-<iframe src="https://podcasters.spotify.com/pod/show/debangsha-sarkar/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+[<img src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" width="75" height="75">](https://youtube.com/playlist?list=PLV9VnT1svgQTRrlf_GopP0JiSUIpzOtjr) [<img src="https://seeklogo.com/images/A/apple-podcast-logo-0CF661058F-seeklogo.com.png" width="75" height="75">](https://podcasts.apple.com/us/podcast/ai-podcast/id1689350103) [<img src="https://www.pngmart.com/files/22/Spotify-Logo-PNG-Transparent.png" width="75" height="75">](https://spotifyanchor-web.app.link/e/qHGYDBxiBBb)
+
 __________________________________________________________________________________________
 
 ## I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.

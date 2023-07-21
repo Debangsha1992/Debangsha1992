@@ -12,7 +12,7 @@
   - ***Non Data Hungry Smart Composite Manufacturing using Active Transfer Learning with Sigma Point Sampling (SPSATL)*** published in      the **Computers in Industry** Journal.
     
     Here is a link to my research paper 👉🏽 https://authors.elsevier.com/a/1hS07bquFUvWm
-- I am open to opportunities in **Machine Learning Development** and **Artificial Intelligence Development**.
+- I am open to opportunities in ***Machine Learning Development*** and ***Artificial Intelligence Development***.
 __________________________________________________________________________________________
 
 ## I run a YouTube channel where I teach coding and explain the concepts of AI. 
